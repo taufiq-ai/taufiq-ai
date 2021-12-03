@@ -19,7 +19,7 @@ Final year student of BSc in Computer Science & Engineering with 1+ years of exp
 <p align="left">
 <a href="https://linkedin.com/in/md-taufiqul-haque-khan-tusar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="httmd-taufiqul-haque-khan-tusar/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCbwJ-nKIRMMdOL-BgKFY8jQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucbwj-nkirmmdol-bgkfy8jq" height="30" width="40" /></a>
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/researchgate.svg' alt='researchgate' height='40'>](https://www.researchgate.net/profile/Md-Taufiqul-Haque-Khan-Tusar)  
+<a href ="https://www.researchgate.net/profile/Md-Taufiqul-Haque-Khan-Tusar" target="blank"> <img align="center" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/researchgate.svg' alt='researchgate' height='30'
 </p>
 
 
