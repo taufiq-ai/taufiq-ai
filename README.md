@@ -1,6 +1,8 @@
 ### Hi there 👋, I'm Md. Taufiqul Haque Khan Tusar
 #### Undergraduate Research Assistant | Google Crowdsource Influencer
-![Undergraduate Research Assistant | Google Crowdsource Influencer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+![CAIS](https://user-images.githubusercontent.com/70132613/144657695-d53f3b60-c519-4049-8790-8b44bf7672cb.jpg)
+
 
 Final year student of BSc in Computer Science & Engineering with 1+ years of experience in Machine Learning as an Undergraduate Research Assistant. Have 1 publication and another one on Healthcare Informatics is under the review process in a prestigious IEEE conference proceeding. My research interest is in, but not limited to, Healthcare Informatics and Medical Image Processing using Machine Learning. Currently looking forward to working in a fast pace environment to enhance my career potential.
 
