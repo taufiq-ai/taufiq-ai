@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Md. Taufiqul Haque Khan Tusar
-#### Undergraduate Research Assistant (Data Science) | Chapter Influencer at Google Crowdsource 
+#### AI/ML Researcher | Machine Learning Engineer
 
 ![CAIS](https://user-images.githubusercontent.com/70132613/144657695-d53f3b60-c519-4049-8790-8b44bf7672cb.jpg)
 
