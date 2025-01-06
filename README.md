@@ -1,10 +1,8 @@
 ### Hi there 👋, I'm Taufiq (NLP & BackEnd Engineer @[LaLoka Labs](https://lalokalabs.co/en/)).
-A highly motivated Artificial Intelligence (AI) professional 🤖. I love building AI solutions that truly solve real-world problems💡.  Additionally, I have a strong interest in AI research 👨‍🔬, especially Large Language Models (LLMs) 🧠. In late 2025, I aim to apply for MPhil or PhD opportunities 🎓 to further my passion for AI. 
-Ping me to discuss new AI concepts and tools on weekends 🤙. I am always open to collaboration and contributions in the field of AI. Feel free to reach out 🙏
+My work area incudes Natural Language Processing (NLP), Large Language Models (LLMs), and Backend Engineering. I’m always open to collaborating on impactful research and open-source initiatives. Let’s connect to join the next wave of AI innovation.
 
 Find Me:
-- 📱WhatsApp: +8801811964562
-- ✉️Email: taufiq@lalokalabs.co (preferred)
+- 📱WhatsApp: +880 1811 964562
 - 🔗LinkedIn: https://www.linkedin.com/in/taufiq-khan-tusar/
 - 📚Google Scholar: https://scholar.google.com/citations?user=fhbEomUAAAAJ
 - 🔬ResearchGate: https://www.researchgate.net/profile/Md-Taufiqul-Haque-Khan-Tusar
@@ -21,7 +19,6 @@ Find Me:
 - 👯 I’m looking to collaborate on LLMs Projects 
 - 🤔 I’m looking for help with maximum GPU Optimization.
 - 💬 Ask me about Large Language Models (LLMs). 
-- 📫 How to reach me: taufiqkhantusar@gmail.com
-- 😄 Pronouns: He 
+- 📫 How to reach me: taufiqkhantusar[AT]gmail.com
 
 
